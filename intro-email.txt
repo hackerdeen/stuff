@@ -1,0 +1,31 @@
+Welcome to hackerdeen!
+
+If you haven't already you should join the mailing list and introduce yourself. This is the canonical means of communication for the group, if you have any questions or comments please send them to the list.
+
+https://groups.google.com/forum/#!forum/hackerdeen
+
+Our public facing website is http://hackerdeen.org/
+The members part(hackhub): http://hackerdeen.org/hub/
+
+We also have:
+ - A twitter account: https://twitter.com/hackerdeen
+ - A facebook page: https://www.facebook.com/hackerdeen
+ - An IRC channel: #hackerdeen on freenode.net
+
+If you haven't yet got a card added to doorbot for getting in: speak to Robert <rmcw@allmail.net> to get that sorted out.
+
+Once you have a card you should be able to get into the space by yourself whenever the front door is open - this should always be the case during office hours. Outside office hours the front door might be open but it's better to coordinate with someone who has keys for it: ask on the mailing list. 
+
+We try to keep rules to a minimum, what we do have can be viewed at:
+http://github.com/hackerdeen/rules/blob/master/rules.md
+
+You might find some of the other stuff we have on github interesting:
+http://github.com/hackerdeen/
+
+We have a system for telling if the space is open or closed. This is controlled from hackhub (you can update it) and displayed on the hackerdeen website, announced in the IRC channel, visible via MyHackspace Android app, and probably other places... 
+
+There is a phone in the space, +447787 013 354, which can be used to check if there is someone there and get them to come and let you in if the door is locked.
+
+The infrastructure and organisation of the space is all handled by people volunteering to take care of it. We would love it if you would be willing to help with that. If you want to change something, build something or want to help but don't know what with: drop an email to the list. 
+
+
