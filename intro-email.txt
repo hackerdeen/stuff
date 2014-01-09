@@ -10,6 +10,7 @@ The members part(hackhub): http://hackerdeen.org/hub/
 We also have:
  - A twitter account: https://twitter.com/hackerdeen
  - A facebook page: https://www.facebook.com/hackerdeen
+ - A google plus page: https://www.google.com/+HackerdeenOrg
  - An IRC channel: #hackerdeen on freenode.net
 
 If you haven't yet got a card added to doorbot for getting in: speak to Robert <rmcw@allmail.net> to get that sorted out.
