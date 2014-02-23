@@ -1,17 +1,17 @@
-Welcome to hackerdeen!
+Welcome to 57North!
 
 If you haven't already you should join the mailing list and introduce yourself. This is the canonical means of communication for the group, if you have any questions or comments please send them to the list.
 
-https://groups.google.com/forum/#!forum/hackerdeen
+http://57north.co/cgi-bin/mailman/listinfo/thelist
 
-Our public facing website is http://hackerdeen.org/
+Our public facing website is http://57north.co/
 The members part(hackhub): http://hackerdeen.org/hub/
 
 We also have:
- - A twitter account: https://twitter.com/hackerdeen
- - A facebook page: https://www.facebook.com/hackerdeen
+ - A twitter account: https://twitter.com/57NorthHacklab
+ - A facebook page: https://www.facebook.com/57NorthHacklab
  - A google plus page: https://www.google.com/+HackerdeenOrg
- - An IRC channel: #hackerdeen on freenode.net
+ - An IRC channel: #57N on freenode.net
 
 If you haven't yet got a card added to doorbot for getting in: speak to Robert <rmcw@allmail.net> to get that sorted out.
 
